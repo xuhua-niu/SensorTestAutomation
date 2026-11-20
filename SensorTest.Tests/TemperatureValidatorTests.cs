@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SensorTest.Tests
 {
-    public class TemnperatureValidatorTests
+    public class TemperatureValidatorTests
     {
         [Fact]
         public void IsOverThreshold_TemperatureAboveThreshold_ReturnsTrue()
